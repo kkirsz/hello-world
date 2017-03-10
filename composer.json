@@ -1,0 +1,8 @@
+{
+    "name": "kkirsz/hello-world",
+    "autoload": {
+        "psr-4": {
+            "KKirsz\\HelloWorld\\": "src/"
+        }
+    }
+}
